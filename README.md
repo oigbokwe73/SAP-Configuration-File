@@ -291,7 +291,7 @@ Below is a step-by-step script to configure SAP FICO, including the transaction 
 
 This script will help guide you through configuring SAP FICO step-by-step. Adjust each step according to your specific business needs and SAP version.
 
-Below is a detailed Mermaid sequence diagram for configuring SAP FICO. This diagram outlines the key steps and their sequence in the configuration process. You can use this Mermaid code to visualize the sequence flow:
+Below is a detailed diagram for configuring SAP FICO. This diagram outlines the key steps and their sequence in the configuration process. You can use this Mermaid code to visualize the sequence flow:
 
 ```mermaid
 sequenceDiagram
@@ -366,9 +366,3 @@ sequenceDiagram
     User ->> SAP_GUI: Log Out of SAP System
 ```
 
-### How to Use This Mermaid Code:
-1. Copy the above Mermaid code.
-2. Use any Mermaid Live Editor (e.g., [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)) to visualize the sequence diagram.
-3. Paste the code in the editor, and it will render the detailed diagram for you.
-
-This diagram visually represents the flow of the SAP FICO configuration steps, from logging into the SAP system to providing end-user training and documentation. If you need further customization or additional details, let me know!
